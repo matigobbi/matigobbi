@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning React Js, Typescript, Javascript ( dah ofcourse), and others... 
 
 - 📫 reach me -> matigobbi@gmail.com
+
+- Check my portfolio here -> https://matigobbi-portfolio.netlify.app/
