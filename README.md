@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matigobbi, a webdev interested in knowing more and more about Javascript.
+- 👋 Hi, I’m @matigobbi, a webdeveloper trying to master on Javascript.
 
-- 🌱 I’m currently learning React Js, Typescript, Javascript ( dah ofcourse), and others... 
+- 🌱 I’m currently learning React Js, Typescript, and others... 
 
 - 📫 reach me -> matigobbi@gmail.com
 
