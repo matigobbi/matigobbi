@@ -6,13 +6,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matigobbi" alt="matigobbi" /></a> </p>
 
--  I’m currently working at **IronHack as a Teacher Assistant.**
+  I’m currently working at **IronHack as a Teacher Assistant.**
 
--  I’m  learning **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
+  I’m  learning **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
 
--  Check my portfolio here [ https://matigobbi-portfolio.netlify.app/]
+  Check my portfolio here [ https://matigobbi-portfolio.netlify.app/]
 
-- 📫 How to reach me **-> matigobbi@gmail.com**
+ 📫 How to reach me **-> matigobbi@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
