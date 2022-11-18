@@ -1,4 +1,5 @@
-<h1 align="center">Hi , Matías Gobbi here 🦓.</h1>
+<div align="center">
+  <h1 align="center">Hi , Matías Gobbi here 🦓.</h1>
 <h3 align="center">A webdeveloper learning everyday . My goal: be a master of Javascript, and React .</h3>
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=matigobbi&label=Profile%20views&color=blueviolet&style=flat" alt="matigobbi" /> </p>
@@ -26,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matigobbi&show_icons=true&locale=en" alt="matigobbi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matigobbi&" alt="matigobbi" /></p>
+  </div>
