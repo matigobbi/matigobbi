@@ -8,7 +8,7 @@
 
   I’m currently working at **IronHack as a Teacher Assistant.**
 
-  I’m  learning **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
+  I develop applications using  **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
 
   Check my portfolio here [ https://matigobbi-portfolio.netlify.app/]
 
