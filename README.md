@@ -4,7 +4,7 @@
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=matigobbi&label=Profile%20views&color=blueviolet&style=flat" alt="matigobbi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matigobbi" alt="matigobbi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matigobbi&theme=onedark" alt="matigobbi" /></a> </p>
 
   I’m currently working at **IronHack as a Teacher Assistant.**
 
