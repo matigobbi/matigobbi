@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hi , Matías Gobbi here 🦓.</h1>
-<h3 align="center">A webdeveloper learning everyday . My goal: be a master of Javascript, and React .</h3>
+  <h1 align="center"> Matías Gobbi 🦓.</h1>
+<h3 align="center">I am webdeveloper learning everyday .</h3>
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=matigobbi&label=Profile%20views&color=blueviolet&style=flat" alt="matigobbi" /> </p>
 
@@ -8,7 +8,7 @@
 
   I’m currently working at **IronHack as a Teacher Assistant.**
 
-  I develop applications using  **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
+  I develop web Applications using  **React, Typescript, Node.js, MongoDB, Next.js, Bootstrap..**
 
   Check my portfolio here [ https://matigobbi-portfolio.netlify.app/]
 
